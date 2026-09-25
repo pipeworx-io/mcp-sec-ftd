@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sec-ftd",
   "title": "Sec Ftd",
   "description": "SEC Fails-to-Deliver (CNS fails data).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sec-ftd",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-ftd",
