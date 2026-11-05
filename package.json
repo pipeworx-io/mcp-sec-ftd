@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-ftd",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SEC Fails-to-Deliver (CNS fails data).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sec-ftd",
     "gatewaySlug": "sec-ftd",
-    "sourceHash": "v1-dfe4046663af7b77c289e0b901a44155f0ee44831b9a72504188244e661de45e",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-2c2cff798e27a780694c4a5123a2394950bad6cde21f34b7963e8a292dd63a84",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
